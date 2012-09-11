@@ -77,7 +77,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
     vendor/htc/shooter/proprietary/lib/libcameraLN.so:/system/lib/libcameraLN.so \
     vendor/htc/shooter/proprietary/lib/libcamerapp.so:/system/lib/libcamerapp.so \
-    vendor/htc/shooter/proprietary/lib/libcameraservice.so:/system/lib/libcameraservice.so \
     vendor/htc/shooter/proprietary/lib/libcameraSP.so:/system/lib/libcameraSP.so \
     vendor/htc/shooter/proprietary/lib/libchromatix_s5k3h1gx_default_video.so:/system/lib/libchromatix_s5k3h1gx_default_video.so \
     vendor/htc/shooter/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
@@ -110,7 +109,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/lib/libidl.so:/system/lib/libidl.so \
     vendor/htc/shooter/proprietary/lib/libmllite.so:/system/lib/libmllite.so \
     vendor/htc/shooter/proprietary/lib/libmlplatform.so:/system/lib/libmlplatform.so \
-    vendor/htc/shooter/proprietary/lib/libmm-color-convertor.so:/system/lib/libmm-color-convertor.so \
     vendor/htc/shooter/proprietary/lib/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/shooter/proprietary/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/htc/shooter/proprietary/lib/libmmjpeg2.so:/system/lib/libmmjpeg2.so \
