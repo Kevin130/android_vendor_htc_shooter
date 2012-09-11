@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/framework/wimax-api.jar:/system/framework/wimax-api.jar \
     vendor/htc/shooter/proprietary/lib/egl/eglsubAndroid.so:/system/lib/egl/eglsubAndroid.so \
     vendor/htc/shooter/proprietary/lib/egl/libEGL_adreno200.so:/system/lib/egl/libEGL_adreno200.so \
-    vendor/htc/shooter/proprietary/lib/egl/libGLES_android.so:/system/lib/egl/libGLES_android.so \
     vendor/htc/shooter/proprietary/lib/egl/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/shooter/proprietary/lib/egl/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/shooter/proprietary/lib/egl/libGLESv2S3D_adreno200.so:/system/lib/egl/libGLESv2S3D_adreno200.so \
@@ -109,6 +108,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/lib/libidl.so:/system/lib/libidl.so \
     vendor/htc/shooter/proprietary/lib/libmllite.so:/system/lib/libmllite.so \
     vendor/htc/shooter/proprietary/lib/libmlplatform.so:/system/lib/libmlplatform.so \
+    vendor/htc/shooter/proprietary/lib/libmm-color-convertor.so:/system/lib/libmm-color-convertor.so \
     vendor/htc/shooter/proprietary/lib/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/shooter/proprietary/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/htc/shooter/proprietary/lib/libmmjpeg2.so:/system/lib/libmmjpeg2.so \
